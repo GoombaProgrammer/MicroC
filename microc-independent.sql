@@ -1,0 +1,6 @@
+SELECT * FROM linux
+       ^
+       DROP
+SQL.ENABLE()
+SQL.SELECT SQL.* SQL.FROM linux
+INSTALL
