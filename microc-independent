@@ -1,0 +1,4 @@
+if windows
+  do_bat_file
+else
+  do_not_do_bat_file
